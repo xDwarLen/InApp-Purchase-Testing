@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.34f1
+CRC: 3905611858
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c9f3780ff3ee99cffc3cb14e7402a51c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7bfd6d2a38a843d66473d0729f95e78c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a9071cb585513c7e76dbe6baee50b6bd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/OnGoingDLC/CapsuleDLC.prefab
+Dependencies: []
